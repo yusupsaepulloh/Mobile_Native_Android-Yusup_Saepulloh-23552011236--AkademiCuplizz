@@ -16,5 +16,5 @@ Link Alternative: https://drive.google.com/file/d/1OdejIfimTEUa3E-LOS2BqmwGLY4z_
 Fitur register belum bisa menyimpan informasi \
 Fitur Dalamnya juga hanya tampilan saja
 
-![Uploading 20250504_115450.jpg…]()
+![Uploading 20250504_115450.jpg…](https://github.com/yusupsaepulloh/Mobile_Native_Android-Yusup_Saepulloh-23552011236--AkademiCuplizz/blob/main/app/src/main/res/drawable/tampilan.jpg)
 
